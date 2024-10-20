@@ -25,7 +25,7 @@ window.onload = function () {
       }, delay);
     });
   }
-
+//tr#loading
   // Create 3 promises
   const promises = [];
   for (let i = 1; i <= 3; i++) {
